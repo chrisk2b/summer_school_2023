@@ -1,2 +1,3 @@
-# summer_school_2023
-This repository contains all relevant material for the tutorial session 
+# Summer Cchool 2023
+This repository contains all relevant material for the tutorial session.
+ 
