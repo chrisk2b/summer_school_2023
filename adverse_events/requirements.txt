@@ -1,0 +1,6 @@
+transformers
+accelerate
+sklearn
+torch
+datasets
+openai
