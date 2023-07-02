@@ -1,7 +1,12 @@
 # Adverse Event Detection Model
 
 ## Introduction
-This repository contains data for developing a model to detect the presence of adverse events in sentences. The goal is to build and evaluate a model that can accurately identify whether a given sentence contains an adverse event. Google Colab should be used. The relevant `pip` dependencies for the sample solution (cf. below) are in the `requirements.txt` file. Please debug  potential issues if necessary. An example of a solution for the adverse event detection engine can be found in this [notebook](adverse_events/notebooks).
+This repository contains data for developing a model to detect the presence of adverse events in sentences.
+The goal is to build and evaluate a model that can accurately identify whether a given sentence contains an adverse event.
+Google Colab should be used. The relevant `pip` dependencies for the sample solution (cf. below) are in the `requirements.txt` file.
+Please debug  potential issues if necessary.
+An example of a solution for the adverse event detection engine can be found in this [notebook](adverse_events/notebooks). Please use it only if you don't know how to start.
+Rather, focus on the provided data, cf. below and create your own solution in terms of a notebook.
 
 ## Getting Started
 To begin, follow the steps below:
@@ -37,4 +42,4 @@ Once you have developed a model, you can proceed with the following steps:
 
 4. Compare the model's performance on the new dataset with the performance on the previous dataset.
 
-5. Discuss your results and observations based on the comparison.
+5. Discuss your results and observations based on the comparison and potential next steps
