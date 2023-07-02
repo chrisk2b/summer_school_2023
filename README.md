@@ -13,7 +13,7 @@ You need to have git installed on your local machine, cf. the instructions [here
 
 ## Structure of the Repo
 
-The repository is structured as follows and you will find the following folders a root level of the repository:
+The repository is structured as follows and you will find the following folders on the root level of the repository:
 
 - `adverse_events`: This folder contains code and data related to adverse event detection.
 - `protein_classification`: This folder contains code and data related to protein classification.
