@@ -1,0 +1,27 @@
+# Diabetes Detection Model
+
+## Introduction
+This repository contains data for developing a model to detect whether a person has diabetes or not based on features like BMI (Body Mass Index). The goal is to build a model that can accurately classify individuals as either diabetic or non-diabetic. This can help in early detection and management of diabetes. The repository includes data for training the model, data for making inference, and files containing helper functions.
+
+## Goal
+The main objective of this project is to develop a model that can accurately predict whether a person has diabetes or not based on the provided features. The accuracy should be 85% or higher (is accuracy a good metric?)
+
+## Structure of the Repo
+The repository is structured as follows:
+
+- `data.py`: This file contains some helper function which help to deal e.g. with class imbalance
+  - `data_for_training.csv`: This file contains the training dataset with features and corresponding labels.
+  - `data_for_inference.csv`: This file contains the dataset for making inference using the trained model on new data.
+
+- `graphs.py`: This file contains helper functions related to plot e.g. correlation matrices.
+- `requirements.txt`: Contains all dependencies of the provided solution in the notebook, cf. below:
+- `diabetes.ipynb`: Contains an example of a potential solution. You don't need to look at the notebook. Only if you don't know how to start, feel free to explore the solution provided in the notebook
+
+## Getting Started
+
+ 1. Clone the repo
+ 2. navigate to the [diabetes_detection](https://github.com/chrisk2b/summer_school_2023/tree/main/diabetes_detection) folder.
+ 3. Upload the data files to your Colab environment
+ 4. Try to develop a model based on the training data
+ 5. Perform inference - based on the trained model - on the inference data
+ 6. Discuss your results and detect root causes of potential issues.
