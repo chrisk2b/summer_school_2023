@@ -1,0 +1,7 @@
+pandas==2.0.2
+numpy
+requests==2.31.0
+scikit-learn==1.2.2
+seaborn==0.12.2
+matplotlib==3.7.1
+ipython==8.14.0
