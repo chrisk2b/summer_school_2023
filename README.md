@@ -21,7 +21,7 @@ The repository is structured as follows and you will find the following folders 
 
 Each of these folders has its own dedicated `README.md` file that provides detailed instructions on how to use the provided data for the respective use cases.
 The notebooks in the folders mentioned above contain a potential solution. Pleas use them only if you don't know how to start. Rather, upload the respective
-data in the use case folders and try to fulfill the task by using the data only.
+data in the use case folders to the Colab environment and try to fulfill the task by using the data only.
 
 ## How to Use
 
