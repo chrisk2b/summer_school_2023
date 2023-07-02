@@ -42,4 +42,4 @@ Once you have developed a model, you can proceed with the following steps:
 
 4. Compare the model's performance on the new dataset with the performance on the previous dataset.
 
-5. Discuss your results and observations based on the comparison and potential next steps
+5. Discuss your results and observations based on the comparison and propose potential next steps
